@@ -1,0 +1,9 @@
+variant,gene,chrom,pos,ref,alt,depth,quality,impact
+v1,BRCA1,17,43071077,A,G,42,98,high
+v2,TP53,17,7674220,C,T,9,95,high
+v3,CFTR,7,117559593,G,A,35,51,low
+v4,BRCA1,17,43082403,T,C,60,99,moderate
+v5,TP53,17,7675088,C,T,10,80,high
+v6,CFTR,7,117587799,A,G,28,79,high
+v7,MYC,8,127738263,G,C,55,92,modifier
+v8,TP53,17,7673802,G,A,75,97,moderate
