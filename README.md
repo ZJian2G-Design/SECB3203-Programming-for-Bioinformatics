@@ -9,3 +9,4 @@ Student: Seah Zhang Jian (A24CS0297)
 - Lab04: Biological Collections
 - Lab05: Functions and Modules (`sequence_utils.py`, `normalize.py`)
 - Lab06: Files, Exceptions & Defensive I/O
+- Lab07: Object-Oriented Programming for Biological Sequences and Samples (`models.py`)
